@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BComm/BCompSci @ The University of New South Wales
+subtitle: **BComm/BCompSci @ The University of New South Wales**
 profile:
   align: right
   image: prof_pic.jpg

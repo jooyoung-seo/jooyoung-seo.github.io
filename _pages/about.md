@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! Thanks for stopping by. I'm James.
 
-I'm a third year Commerce and Computer Science student at UNSW. I'm aspiring to become a full stack developer, focusing on web and iOS development. I'm currently learning Swift and Kotlin and have back-end experience with Python, Java and Ruby. I'm currently employed as an admin by the Australian Electoral Commission, where I work with proprietary tools to maintain the integrity of the Australian electoral roll. Outside of work, my hobbies include mechanical keyboards, photography and swimming.
+I'm a second year Commerce and Computer Science student at UNSW. I'm aspiring to become a full stack developer, focusing on web and iOS development. I'm currently learning Swift and Kotlin and have back-end experience with Python, Java and Ruby. I'm currently employed as an admin by the Australian Electoral Commission, where I work with proprietary tools to maintain the integrity of the Australian electoral roll. Outside of work, my hobbies include mechanical keyboards, photography and swimming.
 
 This personal website will eventually become a full-fledged, academic-focused portfolio page, with links to my repositories and projects... but for the time being, I'm planning on using it as a cataloguing/blogging space for my hobbies and extra-curricular activities.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /keyboard-blog/
-title: keyboard blog
+permalink: /blog/
+title: blog
 nav: false
 nav_order: 1
 pagination:

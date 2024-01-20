@@ -2,8 +2,8 @@
 layout: default
 permalink: /keyboard-blog/
 title: keyboard blog
-nav: true
-nav_order: 3
+nav: false
+nav_order: 1
 pagination:
   enabled: true
   collection: posts

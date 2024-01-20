@@ -5,7 +5,7 @@ permalink: /keyboard-blog/
 description: Here, I'm cataloguing my current mechanical keyboard collection
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [black, silver, colourful, previously owned]
 horizontal: false
 ---
 

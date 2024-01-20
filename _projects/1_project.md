@@ -1,25 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: CLS
+description: by LifeZone (LZ)
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: black
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The LZ CLS, or Classic, like its namesake, is an overly-plain, under-designed classic TKL that was run by LZ in early 2017.
+It's main features are the relatively high typing angle (at 9 degrees) and the STS plate that many opt as the default in their configurations.
+The board is LZ's homage to the OTD 456GT, which similarly features a very high typing angle and the box-on-wedge design language.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

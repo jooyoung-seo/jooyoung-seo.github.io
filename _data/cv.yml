@@ -64,7 +64,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Full Stack Development
+    - title: Full Stack Web & iOS Development
       # items:
       # - Description 1.
       #  - Description 2.

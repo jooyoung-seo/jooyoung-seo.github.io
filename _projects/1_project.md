@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 The LZ CLS, or Classic, like its namesake, is an overly-plain, under-designed classic TKL that was run by LZ in early 2017.
-It's main features are the relatively high typing angle (at 9 degrees) and the STS plate that many opt as the default in their configurations.
+It's main features are the relatively high typing angle (at 9 degrees) and the stainless steel plate that many opt as the default in their configurations.
 The board is LZ's homage to the OTD 456GT, which similarly features a very high typing angle and the box-on-wedge design language.
 
 

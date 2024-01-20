@@ -11,14 +11,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.Comm + B.Sci (Computer Science)
+    - title: B.Comm/B.Sci (Computer Science)
       institution: University of New South Wales
       year: 2023-2025
       description:
         - Distinction WAM
         - Majoring in Business Analytics and Computer Science
         
-    - title: B.Comm + B.AdvComp
+    - title: B.Comm/B.AdvComp
       institution: The University of Sydney
       year: 2021-2023
       description:
@@ -41,63 +41,41 @@
   contents:
     - title: Reconciliation Officer
       department: Australian Electoral Commission
-      year: May 2023 - Current
+      year: OCT-NOV 2023
       description:
         - Contributed to the delivery of the 2023 Refrendum by performing comparative checking processes to ensure tha validity of divisional ballot counts for the electorate of Parramatta within the immutable deadlines.
         - Undertook investigative efforts to identify and manage discrepancies within the divisional ballot counts to progress crutiny processes accurately and within the required timeframe.
         - Managed and led a team of TEW (temporary election workforce) to resolve anomalies and ensure the reliability of election data, and to ensure the timely entry of scrutiny results and ballot paper reconciliation data into AEC election systems.
     
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Administrative Assistant
+      department: Australian Electoral Commission
+      year: JUL 2023 - NOW
       description:
-        - Description 1.
-        - Description 2.
+        - Collaborating with team members to resolve data validity issues and maintain the integrity of the electoral roll.
+        - Communicating with clients and management, serving as a point of contact between internal and external inquiries to contribute to the continual maintenance of the electoral database.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Sales Co-worker
+      department: IKEA Australia (Rhodes)
+      year: NOV 2021 - NOW
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Providing customers with expert specialised product advice whilst establishing and maintaining consistently high levels of customer service to ensure customer satisfaction and encourage returning customers.
+        - Liaising interdepartmentally with other co-workers to maximise sales, develop further product knowledge and increase the company’s market share in the area by utilising proprietary software to fine-tune sales forecasts.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Full Stack Development
+      # items:
+      # - Description 1.
+      #  - Description 2.
+    - title: React.native
+      # items:
+      #  - Description 1.
+      #  - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Mechanical Keyboards (check out my keyboard blog!), Photography, Swimming
+ 
+

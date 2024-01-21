@@ -63,7 +63,7 @@ Three colours were offered in the original 2017 Group Buy: Black, Silver and Gra
         {% include figure.liquid path="assets/img/IMG_9860.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9856.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9866.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: CLS
 description: by LifeZone (LZ)
-img: assets/img/12.jpg
+img: assets/img/cls.jpg
 importance: 1
 category: black
 related_publications: false
@@ -10,32 +10,37 @@ related_publications: false
 
 The LZ Classic, or CLS, like its namesake, is an overly-plain, under-designed classic TKL that was run by LZ in early 2017.
 It's main features are the relatively high typing angle (at 9 degrees) and the stainless steel plate that many opt as the default in their configurations.
-The board is LZ's homage to the OTD 456GT, which similarly features a very high typing angle and the box-on-wedge design language.
+The board is LZ's homage to the 2013 board OTD 456GT, which similarly features a very high typing angle, similar bezel ratios and the box on wedge design language.
 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/456gt1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/456gt2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The OTD 456GT. The main difference that stands out between this board and the CLS is the 2-piece weight and the less sporadic screwhole placements.
 </div>
+
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/cls.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+
+
+
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.

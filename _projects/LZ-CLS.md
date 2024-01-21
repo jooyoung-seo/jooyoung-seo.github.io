@@ -22,13 +22,13 @@ It's main features are the relatively high typing angle of 10 degrees and the st
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9854.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9854.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
 </div>
 
-The board is LZ's homage to the 2013 board OTD 456GT, which similarly features a very high typing angle (albeit a bit higher at 11 degrees), similar bezel ratios and the box on wedge design language.
+The board is LZ's homage to the 2013 board OTD 456GT, which similarly features a very high typing angle (albeit a bit higher at 11 degrees), similar bezel ratios, and the box on wedge design language.
 
 
 <div class="row">
@@ -48,7 +48,7 @@ The board is LZ's homage to the 2013 board OTD 456GT, which similarly features a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9859.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9859.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,10 +60,10 @@ Three colours were offered in the original 2017 Group Buy: Black, Silver and Gra
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9860.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9860.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9856.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9856.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -71,7 +71,7 @@ Three colours were offered in the original 2017 Group Buy: Black, Silver and Gra
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9863.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_9863.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

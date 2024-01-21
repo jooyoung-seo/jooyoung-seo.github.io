@@ -57,6 +57,13 @@ The board is LZ's homage to the 2013 board OTD 456GT, which similarly features a
 
 Three colours were offered in the original 2017 Group Buy: Black, Silver and Gray. A total of 83 units ended up being commissioned, and of these, 20 were black, and of these, 14 were Winkeyless variants. Making this specific unit on my desk 1 of 14 in the world. Interestingly, I also previously owned a silver WKL variant of which there were 13 units made. Sadly, that particular board was sold and I miss it dearly. For the CLS, you could also choose between a brass or stainless steel backpiece weight. This particular unit has a brass weight with some natural patina accumulated as well as some of LZ's personal fingerprints.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_9863.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -69,10 +76,3 @@ Three colours were offered in the original 2017 Group Buy: Black, Silver and Gra
 <div class="caption">
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/IMG_9863.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-</div>
